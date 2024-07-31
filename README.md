@@ -24,3 +24,24 @@ You may write helper functions, but there should be one function that:
 
 2. When called, prints the grid of characters specified by the input data, displaying a graphic of correctly oriented uppercase letters.
 
+## input
+
+| x-coordinate 	| Character 	| y-coordinate 	|
+|--------------	|-----------	|--------------	|
+| 0            	| █         	| 0            	|
+| 0            	| █         	| 1            	|
+| 0            	| █         	| 2            	|
+| 1            	| ▀         	| 1            	|
+| 1            	| ▀         	| 2            	|
+| 2            	| ▀         	| 1            	|
+| 2            	| ▀         	| 2            	|
+| 3            	| ▀         	| 2            	|
+
+## output
+
+
+ █▀▀▀
+
+ █▀▀ 
+
+ █   
